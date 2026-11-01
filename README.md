@@ -60,6 +60,7 @@ After running the command, open your browser and navigate to the local address d
 
 ```text
 Facebook_loginPage/
+├── .gitignore          # Git ignore rules (node_modules, build artifacts, etc.)
 ├── index.html          # Main HTML structure
 ├── style.css           # Tailwind directives (@tailwind base, etc.)
 ├── tailwind.config.js  # Tailwind CSS configuration
@@ -77,3 +78,4 @@ Facebook_loginPage/
 
 - UI design based on [Facebook](https://www.facebook.com/).
 - Built as part of learning modern Tailwind CSS workflows guided by web development tutorials.
+
